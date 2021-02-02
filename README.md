@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         WhatsAppMessageSender messageSender = new WhatsAppMessageSender(this);
         try {
-            messageSender.sendMessage("91", "8780679804", "hey there!");
+            messageSender.sendMessage("91", "1234567890", "hey there!");
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }
