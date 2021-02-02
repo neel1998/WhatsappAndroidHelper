@@ -20,7 +20,7 @@ And then in `app.gradle` file add the following dependecy,
 
 ```
 dependencies {
-	        implementation 'com.github.neel1998:WhatsappAndroidHelper:1.0.1'
+	        implementation 'com.github.neel1998:WhatsappAndroidHelper:1.0.2'
 	}
 ```
 
